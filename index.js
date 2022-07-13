@@ -1,4 +1,3 @@
-const myEmojis = ["👨‍💻", "⛷", "🍲"]
 const myEmojis = ["👨‍💻", "⛷", "🍲", 😈, 😼, 😹]
 
 function renderEmojis() {
